@@ -1,0 +1,13 @@
+# Desafio de Phishing - Página Falsa de Login (Facebook)
+Este repositório foi criado para a entrega do desafio de Phishing proposto pela Digital Innovation One (DIO).
+O projeto consiste na criação de uma página falsa de login do Facebook, com o objetivo de compreender,
+de forma prática e educacional, como ataques de phishing podem capturar credenciais de usuários
+por meio de engenharia social.
+
+⚠️ Este projeto tem finalidade exclusivamente educacional, realizado em ambiente controlado,
+sem qualquer intenção de uso malicioso.
+
+- Compreender como páginas falsas de login são utilizadas em ataques de phishing
+- Demonstrar como dados podem ser capturados por meio de formulários fraudulentos
+- Reforçar a importância da conscientização em segurança da informação
+- Aplicar os conceitos ensinados nas aulas do curso
